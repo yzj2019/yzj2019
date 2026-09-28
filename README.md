@@ -6,8 +6,8 @@ Developer / Boy
 Python / C++ / JavaScript
 
 ## 📫 Social
-Email: nilaoda@live.com
-Blog: https://github.com/nilaoda/Blog/discussions
+Email: yzj18@mail.ustc.edu.cn
+Blog: TBD
 
 <!--
 **yzj2019/yzj2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
