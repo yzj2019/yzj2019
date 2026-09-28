@@ -7,7 +7,8 @@ Python / C++ / JavaScript
 
 ## 📫 Social
 Email: yzj18@mail.ustc.edu.cn
-Blog: TBD
+
+Blog: [yzj's notion blog](https://boatneck-decade-e24.notion.site/dcd2c1df86464374b3b666a82212a72c?v=f2922e9050b746d4b9eb8fa7a20fad40&source=copy_link)
 
 <!--
 **yzj2019/yzj2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
