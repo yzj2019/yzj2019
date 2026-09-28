@@ -1,5 +1,5 @@
 ## 📢 My profile
-[![yzj2019's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzj2019)](https://github.com/anuraghazra/github-readme-stats)
+[![yzj2019's GitHub stats](https://github-stats-extended.vercel.app/api?username=yzj2019)](https://github.com/stats-organization/github-stats-extended)
 
 ## ✨ About me
 Developer / Boy
